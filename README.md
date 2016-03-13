@@ -1,0 +1,1 @@
+# osx_terminal_dictionary
